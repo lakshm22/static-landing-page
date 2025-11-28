@@ -18,7 +18,8 @@ A mini project to learn the usage of semantic elements, grids and flexbox concep
 <pre>
   
   ├── static-landing-page/
-  ├── static.html         # Main file containing the static webpage structure 
-  └── scroll.css          # CSS file to add styling to the webpage
+   ├── project/
+   ├── scroll.css         # CSS file to add styling to the webpage
+   └── static.html        # Main file containing the static webpage structure
   
 </pre>
