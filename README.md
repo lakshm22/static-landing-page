@@ -8,6 +8,15 @@ A mini project to learn the usage of semantic elements, grids and flexbox concep
 
 ----
 
+## Features
+
+- Fully responsive design
+- Clean and modern layout
+- Easy to customise
+- Fast-loading static content
+
+----
+
 ### Tech Stack ⚒️
 - `HTML5`
 - `CSS`
